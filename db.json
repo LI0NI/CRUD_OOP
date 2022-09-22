@@ -1,0 +1,27 @@
+{
+    "cars": [
+        {
+            "id": "bf50e8",
+            "brand": "wefw",
+            "car_model": "wewe",
+            "date": 234232,
+            "engine_volume": 3.3,
+            "color": "sddfd",
+            "body_type": "sdg",
+            "mileage": 3452,
+            "price": 345.35
+        },
+        {
+            "id": "a38208",
+            "brand": "wefwef",
+            "car_model": "werfe",
+            "date": 23421,
+            "engine_volume": "3.3",
+            "color": "sdfsd",
+            "body_type": "fsdf",
+            "mileage": 2323,
+            "price": "232.32"
+        }
+    ],
+    "counter": 2
+}
